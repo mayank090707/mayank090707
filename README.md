@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.gif.gif" width="100%" height="220" alt="Animated Banner">
+  <img src="./banner.gif" width="100%" height="220" alt="Animated Banner">
 </p>
 <h1 align="center">Hey, I'm Mayank Sharma 👋</h1>
 

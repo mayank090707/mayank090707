@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="./banner.gif" width="100%" alt="My Banner">
 </p>
 <h1 align="center">Hey, I'm Mayank Sharma 👋</h1>
 

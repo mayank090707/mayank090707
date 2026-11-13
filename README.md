@@ -53,9 +53,9 @@ Full Stack · Developer · Competitive Programmer
 
 | Project | Stack | Highlight |
 |---|---|---|
+| [Campus Hub](https://github.com/mayank090707/Campus-Hub-Revised) | React, TypeScript, Express | Student management platform |
+| [Yojana Match](https://github.com/arpitvashisht3-droid/YojanaMatch) | React, TypeScript, Node.js, Express, MongoDB, Gemini API | AI-powered government scheme discovery platform with multilingual assistance |
 [Space Defender](https://github.com/mayank090707/Space-Defender) | C++, SFML, CMake | 2D space shooter implementing DSA concepts |
 | [DataLens](https://github.com/mayank090707/DataLens) | Python, Pandas, NumPy, Streamlit | Student performance analysis and interactive dashboard |
-| AgentPay | React, Solidity, FastAPI | Autonomous AI payments |
-| Campus Hub | React, TypeScript, Express | Student management platform |
-| AurumFinance | React, TypeScript, MongoDB | Expense tracking dashboard |
-| ScrimKeeper | React, Node.js, MongoDB | Esports management |
+| [Agent Pay](https://github.com/mayank090707/AgentPay) | React, Solidity, FastAPI | Autonomous AI payments |
+| [Finance](https://github.com/mayank090707/DataLens) | React, TypeScript, MongoDB | Expense tracking dashboard |

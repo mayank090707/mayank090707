@@ -6,11 +6,16 @@
 <h3 align="center">
 Full Stack · Developer · Competitive Programmer
 </h3>
-
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LINKEDIN</a> |
-  <a href="mailto:109mayanksharma@gmail.com">GMAIL</a> |
-  <a href="YOUR_INSTAGRAM_URL">INSTAGRAM</a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:109mayanksharma@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
  🧠 About Me
 
@@ -18,7 +23,7 @@ Full Stack · Developer · Competitive Programmer
 - 💻 Interested in Software Development, DSA and Machine Learning
 - 🚀 Building projects using React, C++, Node.js
 - 🏆 IEEE BPIT – DSA Coordinator
-- 🏅 IEEE Xtreme 20.0 - Secured a global rank of 2,000 in IEEE Xtreme
+- 🏅 IEEE Xtreme 20.0 - Secured a global rank of 2,083 in IEEE Xtreme
 - 🌱 Currently exploring Game Development
 
 - ---

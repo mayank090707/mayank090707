@@ -13,11 +13,11 @@ Full Stack · Developer · Competitive Programmer
 </p>
  🧠 About Me
 
-- 🎓 B.Tech CSE @ BPIT, GGSIPU
+- 🎓 B.Tech CSE @ Guru Gobind Singh Indraprastha University — CGPA: 9.6
 - 💻 Interested in Software Development, DSA and Machine Learning
 - 🚀 Building projects using React, C++, Node.js
 - 🏆 IEEE BPIT – DSA Coordinator
-- 🏅 Secured a global rank of 2,000 in IEEE Xtreme
+- 🏅 IEEE Xtreme 20.0 - Secured a global rank of 2,000 in IEEE Xtreme
 - 🌱 Currently exploring Game Development
 
 - ---
@@ -59,3 +59,20 @@ Full Stack · Developer · Competitive Programmer
 | [DataLens](https://github.com/mayank090707/DataLens) | Python, Pandas, NumPy, Streamlit | Student performance analysis and interactive dashboard |
 | [Agent Pay](https://github.com/mayank090707/AgentPay) | React, Solidity, FastAPI | Autonomous AI payments |
 | [Finance](https://github.com/mayank090707/DataLens) | React, TypeScript, MongoDB | Expense tracking dashboard |
+
+---
+
+ 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayank090707&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank090707&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mayank090707&theme=tokyonight&hide_border=true" width="70%">
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayank090707&label=Profile%20Views&color=00DDB3&style=flat" />
+</p>

@@ -63,8 +63,8 @@ Full Stack · Developer · Competitive Programmer
 | [Yojana Match](https://github.com/arpitvashisht3-droid/YojanaMatch) | React, TypeScript, Node.js, Express, MongoDB, Gemini API | AI-powered government scheme discovery platform with multilingual assistance |
 [Space Defender](https://github.com/mayank090707/Space-Defender) | C++, SFML, CMake | 2D space shooter implementing DSA concepts |
 | [DataLens](https://github.com/mayank090707/DataLens) | Python, Pandas, NumPy, Streamlit | Student performance analysis and interactive dashboard |
+| [BudgetCool](https://github.com/mayank090707/Expense-Tracker) | React, TypeScript, MongoDB | Expense tracking dashboard |
 | [Agent Pay](https://github.com/mayank090707/AgentPay) | React, Solidity, FastAPI | Autonomous AI payments |
-| [Finance](https://github.com/mayank090707/DataLens) | React, TypeScript, MongoDB | Expense tracking dashboard |
 
 ---
 
